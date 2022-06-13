@@ -1,0 +1,46 @@
+*
+{
+    background-color: linear-gradient(red,blue,green);
+    color: #00ff40;
+    font-family:'Courier New', Verdana;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+body
+{
+    margin: 2;
+    min-height: 100vh;
+    background-image: url(../imagenes/fondo1.jpg);
+    background-image: transparent;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+p
+{
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(119, 255, 0);
+}
+li
+{
+    font-family: 'Courier New';
+    color: #55b3c1;
+}
+a
+{
+    color: #4efff9;
+}
+h1
+{
+    color: rgba(255, 0, 0, 0.568);
+}
+h2
+{
+    color: #00a210;
+}
+table
+{
+    color: rgb(198, 225, 107);
+}
